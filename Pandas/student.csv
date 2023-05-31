@@ -1,0 +1,8 @@
+student_id,student_name,course_name,email,age
+1,basit,LAAG,basit007@gmail.com,19
+2,sumair,PP,basit007@gmail.com,NULL
+3,uzair,OOP,uzair@gmail.com,NULL
+4,muzammil,Calculas,uzair@gmail.com,NULL
+5,khaliq,English,uzair@gmail.com,NULL
+6,sachal,ISE,sachal@yahoo,NULL
+7,NULL,ISE,sachal@yahoo,NULL
